@@ -1,5 +1,5 @@
 `timescale 1ns/1ps
-module tb_debug_encoding();
+module tb_two_bit_error_correction();
 
 reg [43:0] original_data;
 wire [43:0] interleaved_data;
